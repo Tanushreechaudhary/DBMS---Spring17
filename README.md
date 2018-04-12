@@ -8,3 +8,5 @@ Designed a model that can help a company to manage and analyze Employee data in 
 * Capability to track and access important metrics and reports<br/>
 * Improving audit and compliance management<br/>
 
+Link to the report: https://github.com/Tanushreechaudhary/DBMS---Spring17/blob/master/DBMS%20REPORT-%23SCUDATACRATS.pdf <br/>
+Link to SQL queries: https://github.com/Tanushreechaudhary/DBMS---Spring17/blob/master/UseCasesSQLQueries-2.sql
